@@ -1,0 +1,10 @@
+[general]
+title = "My Awesome App"
+description = "This is an amazing app that I built with love and care"
+[theme]
+primary_color = "#3498db" // My favorite blue color!
+background_color = "#f0f0f0" // A clean white-gray background
+text_color = "#26a69a" // A lovely greenish text color
+[layout]
+width = 800 // The width of my app's layout
+height = 600 // The height of my app's layout
